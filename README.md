@@ -183,21 +183,36 @@ KPIs, Revenue Trend, Top Products, Return Rate, Drill-through navigation.
 
 ### 🏠 Executive Dashboard  
 [`Exce - Dasshboard Screenshot.png`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Exce%20-%20Dasshboard%20Screenshot.png)
+<img width="1552" height="869" alt="image" src="https://github.com/user-attachments/assets/2a2cf961-b071-4a8a-bcf2-121f1a9bfce1" />
+
 
 ### 🗺 MAP Page  
 [`![Map Page](AdventureWorks Images/Map Page.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Map%20page%20Screenshot.png)
+<img width="1544" height="866" alt="image" src="https://github.com/user-attachments/assets/e543b4fd-a74e-4c7b-8326-39b9fe060b91" />
+
 
 ### 📦 Product Detail Page  
 [`![Product Detail](AdventureWorks Images/Product Detail.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Product%20details%20page%20Screenshot.png)
+<img width="1541" height="865" alt="image" src="https://github.com/user-attachments/assets/0fc7253a-b041-460f-b6e0-5eafb3121d28" />
+
+
 
 ### 👥 Customer Detail Page  
 [`![Customer Detail](AdventureWorks Images/Customer Detail.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Customer's%20details%20page%20Screenshot.png)
+<img width="1548" height="870" alt="image" src="https://github.com/user-attachments/assets/e7a0d319-e394-4c86-b707-f079096cf86d" />
+
+
 
 ### 🌳 Decomposition Tree  
 [`![Decomposition Tree](AdventureWorks Images/Decomposition Tree.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Decomposition%20Tree%20page%20Screenshot.png)
+<img width="1536" height="865" alt="image" src="https://github.com/user-attachments/assets/1f5ddb0d-ec01-40b4-93ca-d26096c8707e" />
+
 
 ### 🧠 Key Influencers Page  
 [`![Key Influencers](AdventureWorks Images/Key Influencers.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Key%20Unfluncers%20page%20Screenshot.png)
+<img width="1550" height="864" alt="image" src="https://github.com/user-attachments/assets/86492e45-0f69-488b-922b-dec5511cb7d1" />
+
+
 
 ---
 
