@@ -181,10 +181,8 @@ KPIs, Revenue Trend, Top Products, Return Rate, Drill-through navigation.
 
 ## 📸 9. Dashboard Preview
 
-🔥 *Replace these with your own screenshot links after uploading*  
-
 ### 🏠 Executive Dashboard  
-`![Executive Dashboard](AdventureWorks Images/Exec Dashboard.png)`
+`Exce - Dasshboard Screenshot.png`
 
 ### 🗺 MAP Page  
 `![Map Page](AdventureWorks Images/Map Page.png)`
