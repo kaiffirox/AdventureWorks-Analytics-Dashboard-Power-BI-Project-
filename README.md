@@ -182,22 +182,22 @@ KPIs, Revenue Trend, Top Products, Return Rate, Drill-through navigation.
 ## 📸 9. Dashboard Preview
 
 ### 🏠 Executive Dashboard  
-`Exce - Dasshboard Screenshot.png`
+[`Exce - Dasshboard Screenshot.png`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Exce%20-%20Dasshboard%20Screenshot.png)
 
 ### 🗺 MAP Page  
-`![Map Page](AdventureWorks Images/Map Page.png)`
+[`![Map Page](AdventureWorks Images/Map Page.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Map%20page%20Screenshot.png)
 
 ### 📦 Product Detail Page  
-`![Product Detail](AdventureWorks Images/Product Detail.png)`
+[`![Product Detail](AdventureWorks Images/Product Detail.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Product%20details%20page%20Screenshot.png)
 
 ### 👥 Customer Detail Page  
-`![Customer Detail](AdventureWorks Images/Customer Detail.png)`
+[`![Customer Detail](AdventureWorks Images/Customer Detail.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Customer's%20details%20page%20Screenshot.png)
 
 ### 🌳 Decomposition Tree  
-`![Decomposition Tree](AdventureWorks Images/Decomposition Tree.png)`
+[`![Decomposition Tree](AdventureWorks Images/Decomposition Tree.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Decomposition%20Tree%20page%20Screenshot.png)
 
 ### 🧠 Key Influencers Page  
-`![Key Influencers](AdventureWorks Images/Key Influencers.png)`
+[`![Key Influencers](AdventureWorks Images/Key Influencers.png)`](https://github.com/kaiffirox/AdventureWorks-Analytics-Dashboard-Power-BI-Project-/blob/main/Key%20Unfluncers%20page%20Screenshot.png)
 
 ---
 
